@@ -1,1 +1,2 @@
-I'm adding some merge conflicts here.
+# References
+* I'm adding some merge conflicts here.
